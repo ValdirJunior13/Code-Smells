@@ -1,0 +1,7 @@
+1 - alguns comentarios sem precisão
+2 - a classe interface não é mt utilizada
+3 - duplicação de código: código semelhante na classe battleresult e player(add_observer, remove_observer, notify_observers)
+4 - Falta de tratamento de erros: O código não lida com possíveis erros, como tentar remover um observador que não está na lista de observadores.
+5 - Falta de tratamento de importações redundantes: O código importa as interfaces Observer e Subject duas vezes
+
+
