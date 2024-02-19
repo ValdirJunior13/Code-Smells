@@ -7,3 +7,6 @@
 
 Historia: 
 Como jogador eu gostaria de colocar exércitos nos meus territórios. A quantidade de exércítos é um número inteiro e, caso seja coloca em um território de outro jogador, a operação será negada.
+
+
+link do vídeo: https://youtu.be/uw1OEnEfA8Q 
